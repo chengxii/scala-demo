@@ -1,0 +1,39 @@
+### IDEAcx-template template
+### IntelliJ IDEA Project files
+.idea
+*.iml
+*.ipr
+*.iws
+target
+out
+
+### Eclipse Project files
+.classpath
+.project
+.settings/
+bin/
+gen/
+
+### Other
+*.bak
+*.tem
+*.temp
+#.swp
+*.*~
+~*.*
+
+### Java template
+# Compiled class file
+#*.class
+
+# Log file
+*.log
+log
+
+# Package Files #
+#*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar

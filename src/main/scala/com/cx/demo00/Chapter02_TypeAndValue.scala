@@ -1,9 +1,10 @@
 package com.cx.demo00
 
 /**
+  * Scala 常量、变量的使用以及各类型的申明
   * Created by xi.cheng on 2018/5/21.  
   */
-class TypeAndValue_02 {
+object Chapter02_TypeAndValue {
   def main(args: Array[String]): Unit = {
     //一、这里演示的是常量的使用
     //val用于定义常量，常量的类型为Int ,初始值为18

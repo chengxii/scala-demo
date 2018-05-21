@@ -2,7 +2,7 @@ package com.cx.demo00
 
 /**
   * Scala表达式及循环
-  * Created by xi.cheng on 2018/5/21.  
+  * Created by xi.cheng on 2018/5/21.
   */
 object Chapter04_StatementsAndLoop {
   def tes1(): Unit = {

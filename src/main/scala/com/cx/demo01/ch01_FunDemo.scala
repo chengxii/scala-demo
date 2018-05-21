@@ -2,7 +2,7 @@ package com.cx.demo01
 
 /**
   * Scala函数
-  * Created by xi.cheng on 2018/5/21.  
+  * Created by xi.cheng on 2018/5/21.
   */
 class ch01_FunDemo {
 

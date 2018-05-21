@@ -11,7 +11,7 @@ package com.cx.demo00
   * -等价于.-()
   * a-b等价于a.-(b)
   *
-  * Created by xi.cheng on 2018/5/21.  
+  * Created by xi.cheng on 2018/5/21.
   */
 object Chapter03_Operator {
   def test0(): Unit = {

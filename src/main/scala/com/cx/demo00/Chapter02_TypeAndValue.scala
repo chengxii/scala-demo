@@ -2,7 +2,7 @@ package com.cx.demo00
 
 /**
   * Scala 常量、变量的使用以及各类型的申明
-  * Created by xi.cheng on 2018/5/21.  
+  * Created by xi.cheng on 2018/5/21.
   */
 object Chapter02_TypeAndValue {
   def main(args: Array[String]): Unit = {

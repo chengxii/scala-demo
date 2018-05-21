@@ -2,7 +2,7 @@ package com.cx.demo00
 
 /**
   * Scala函数定义与调用方式
-  * Created by xi.cheng on 2018/5/21.  
+  * Created by xi.cheng on 2018/5/21.
   */
 object Chapter05_Function {
   def main(args: Array[String]) {

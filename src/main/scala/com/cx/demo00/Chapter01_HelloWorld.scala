@@ -2,7 +2,7 @@ package com.cx.demo00
 
 /**
   * object 用以表示Scala的类
-  * Created by xi.cheng on 2018/5/21.  
+  * Created by xi.cheng on 2018/5/21.
   */
 // 这是一个Scala的类,使用object来表示
 object Chapter01_HelloWorld {

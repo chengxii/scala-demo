@@ -4,11 +4,7 @@ package com.cx.demo01
   * Scala函数
   * Created by xi.cheng on 2018/5/21.
   */
-class ch01_FunDemo {
-
-}
-
-object ch01_FunDemo {
+object ch01_Function {
   // 在scala中函数是一等公民，你甚至可以将它赋值给一个常量
   // val sum声明了一个常量，(a: Int ,b: Int)=>a+b是一个匿名函数
   val sum = (a: Int, b: Int) => a + b

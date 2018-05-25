@@ -3,11 +3,7 @@ package com.cx.demo01
 /**
   * Created by xi.cheng on 2018/5/21.
   */
-class ch02_StatementsDemo {
-
-}
-
-object ch02_StatementsDemo {
+object ch02_Statements {
   def main(args: Array[String]) {
     fun1
     println("*********************************************************************")

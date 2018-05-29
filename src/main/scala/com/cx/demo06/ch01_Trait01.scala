@@ -15,7 +15,6 @@ object ch01_Trait01 {
     animal.sleep
     animal.run
 
-
     println("*****************************************")
     //创建对象
     animal = new Cat

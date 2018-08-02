@@ -1,5 +1,5 @@
-### IDEAcx-template template
-### IntelliJ IDEA Project files
+# IDEAcx-template template
+# IntelliJ IDEA Project files
 .idea
 *.iml
 *.ipr
@@ -7,14 +7,14 @@
 target
 out
 
-### Eclipse Project files
+# Eclipse Project files
 .classpath
 .project
 .settings/
 bin/
 gen/
 
-### Other
+# Other
 *.bak
 *.tem
 *.temp
@@ -22,7 +22,7 @@ gen/
 *.*~
 ~*.*
 
-### Java template
+# Java template
 # Compiled class file
 #*.class
 

@@ -25,11 +25,11 @@ class Fish {
 object Fish {
   //在Fish中定义一个静态方法test()
   def test() {
-    println(“object Fish test()”)
+    println("object Fish test()")
   }
 
   //static在scala中并不是关键字，你甚至可以定义一个名称为static 的方法
   def static(): Unit = {
-    println(“object Fish static()”)
+    println("object Fish static()")
   }
 }

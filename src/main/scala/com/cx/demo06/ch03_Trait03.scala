@@ -9,7 +9,7 @@ package com.cx.demo06
   *
   * Created by xi.cheng on 2018/5/25.
   */
-object ch02_Trait02 {
+object ch02_Trait03 {
 
   def main(args: Array[String]) {
     //创建对象时候混入特质
